@@ -1,3 +1,22 @@
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
-</html>
+<link href ="style.css" rel="stylesheet" type="text/css"/>
+<body bgcolor="#665A92">
+<head>
+<title>Website</title>
+</head>
+<font face="Antigua" color="pink" size="3">
+<div class="topnav" id="myTopnav">
+<a class="navbar-brand" href="#"><img src="https://pbs.twimg.com/profile_images/593778363422019586/kbp4x5Jc.jpg"HEIGHT="80" WIDTH="80" BORDER="20"></a>
+  <a href="#home">Home</a>
+  <a href="#players">Players</a>
+  <a href="#News">News</a>
+  <a href="#about">About</a>
+</div>
+<body>
+	<h1>Chess News</h1>
+	<h2>Here you will learn all about the current chess players including their ratings, games and tournaments.</h2>
+	<p>This is a paragraph</p>
+	<font face="Antigua" color="pink">This is some text!</font>
+	</font>
+</body>
